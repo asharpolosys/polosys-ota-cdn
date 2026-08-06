@@ -2,13 +2,13 @@
   "appId": "com.polosys.app",
   "platform": "windows",
   "channel": "development",
-  "version": "10.50.115",
-  "bundleId": "10.50.115",
-  "bundleUrl": "windows/development/bundles/polosys-10.50.115.zip",
+  "version": "10.50.116",
+  "bundleId": "10.50.116",
+  "bundleUrl": "windows/development/bundles/polosys-10.50.116.zip",
   "rollback": {
     "enabled": true,
     "reason": "",
-    "minSafeBundleId": "10.50.115",
+    "minSafeBundleId": "10.50.116",
     "forceRollback": false
   }
 }
